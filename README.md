@@ -21,7 +21,7 @@ Most of what's here falls into four buckets: **training and serving pipelines**,
 
 **[grpo-countdown-modal](https://github.com/5x5x5x5/grpo-countdown-modal)** — GRPO fine-tuning on Modal GPUs: LoRA-tunes small Qwen models on Countdown arithmetic and MBPP code generation with verifiable, sandboxed rewards.
 
-**[Gorganzola](https://github.com/5x5x5x5/Gorganzola)** — AI director's commentary for films: give it a subtitle file and a persona, get a timed commentary track (and optional audio) that never talks over the dialogue.
+**[commentary-track](https://github.com/5x5x5x5/commentary-track)** — AI director's commentary for films: give it a subtitle file and a persona, get a timed commentary track (and optional audio) that never talks over the dialogue.
 
 **[marketplace](https://github.com/5x5x5x5/marketplace)** — Two-sided marketplace API where the platform sets buyer price and seller payout independently and keeps the spread. FastAPI + Pydantic v2, runtime-tunable pricing and matching. Companion: [auction](https://github.com/5x5x5x5/auction), a minimal sealed-bid call auction.
 
@@ -43,6 +43,8 @@ Most of what's here falls into four buckets: **training and serving pipelines**,
 
 **[deploy-pony](https://5x5x5x5.github.io/deploy-pony/)** — Java deployment hell as an interactive site, in two aesthetics: neon-lit dark or pastel and bouncy. May your heap never overflow.
 
+**[arcade](https://5x5x5x5.github.io/arcade/)** — Vibe-coded browser games, each a single static HTML file: a diner-themed match-3 and a 3D cat-chases-dogs romp.
+
 **[craps](https://github.com/5x5x5x5/craps)** — A craps simulator with built-in tutorial, in plain JavaScript.
 
 ## 🌐 Live sites
@@ -58,6 +60,7 @@ Everything with a working GitHub Pages deployment, in one place:
 - [typist-guild](https://5x5x5x5.github.io/typist-guild/) — typing leaderboard
 - [phantom-architecture](https://5x5x5x5.github.io/phantom-architecture/) — unbuilt buildings as SVG blueprints
 - [deploy-pony](https://5x5x5x5.github.io/deploy-pony/) — Java deployment hell, two ways
+- [arcade](https://5x5x5x5.github.io/arcade/) — single-file browser games
 - [deeplearningrtp.github.io](https://deeplearningrtp.github.io/) — Deep Learning RTP, with ML demos running in your browser
 
 ## 🗺️ Elsewhere
