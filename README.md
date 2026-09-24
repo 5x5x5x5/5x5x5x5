@@ -37,6 +37,8 @@ Most of what's here falls into four buckets: **training and serving pipelines**,
 
 **[taihls](https://5x5x5x5.github.io/taihls/)** 🚧 — An interactive textbook on AI for health and life sciences, with in-browser runnable code. Landing chapter by chapter.
 
+**[schemer](https://5x5x5x5.github.io/schemer/)** 🚧 — An in-browser CS tutor in the question-and-answer style of *The Little Schemer*.
+
 ## 🎲 Just for fun
 
 **[phantom-architecture](https://5x5x5x5.github.io/phantom-architecture/)** — Twenty-five architectural designs that never left the page, rendered as deterministic SVG blueprints. Vibe-coded by dictation.
@@ -45,7 +47,7 @@ Most of what's here falls into four buckets: **training and serving pipelines**,
 
 **[arcade](https://5x5x5x5.github.io/arcade/)** — Vibe-coded browser games, each a single static HTML file: a diner-themed match-3 and a 3D cat-chases-dogs romp.
 
-**[craps](https://github.com/5x5x5x5/craps)** — A craps simulator with built-in tutorial, in plain JavaScript.
+**[craps](https://5x5x5x5.github.io/craps/)** — A craps simulator with built-in tutorial, in plain JavaScript.
 
 ## 🌐 Live sites
 
@@ -56,11 +58,13 @@ Everything with a working GitHub Pages deployment, in one place:
 - [malick-money](https://5x5x5x5.github.io/malick-money/) — the same curriculum, Malick voiceover
 - [ghidra-journey](https://5x5x5x5.github.io/ghidra-journey/) — reverse-engineering curriculum
 - [taihls](https://5x5x5x5.github.io/taihls/) — AI for health and life sciences textbook 🚧
+- [schemer](https://5x5x5x5.github.io/schemer/) — Little Schemer-style CS tutor 🚧
 - [gutenberg-typist](https://5x5x5x5.github.io/gutenberg-typist/) — typing-plugin site
 - [typist-guild](https://5x5x5x5.github.io/typist-guild/) — typing leaderboard
 - [phantom-architecture](https://5x5x5x5.github.io/phantom-architecture/) — unbuilt buildings as SVG blueprints
 - [deploy-pony](https://5x5x5x5.github.io/deploy-pony/) — Java deployment hell, two ways
 - [arcade](https://5x5x5x5.github.io/arcade/) — single-file browser games
+- [craps](https://5x5x5x5.github.io/craps/) — craps simulator and tutorial
 - [deeplearningrtp.github.io](https://deeplearningrtp.github.io/) — Deep Learning RTP, with ML demos running in your browser
 
 ## 🗺️ Elsewhere
