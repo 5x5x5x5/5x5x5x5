@@ -19,6 +19,8 @@ Most of what's here falls into four buckets: **training and serving pipelines**,
 
 **[dear-reader-bench](https://github.com/5x5x5x5/dear-reader-bench)** — An LLM benchmark for translating comedic narration (à la *Wizard People, Dear Reader*): does the humor, voice, and running gags survive the trip into another language?
 
+**[ai-vocabulary](https://5x5x5x5.github.io/ai-vocabulary/)** — Fourteen years of what the field called itself: 78 terms tracked across 625,000 arXiv AI papers, 2012–2026, as an animated word cloud, streamgraph, and sparklines.
+
 **[grpo-countdown-modal](https://github.com/5x5x5x5/grpo-countdown-modal)** — GRPO fine-tuning on Modal GPUs: LoRA-tunes small Qwen models on Countdown arithmetic and MBPP code generation with verifiable, sandboxed rewards.
 
 **[commentary-track](https://github.com/5x5x5x5/commentary-track)** — AI director's commentary for films: give it a subtitle file and a persona, get a timed commentary track (and optional audio) that never talks over the dialogue.
@@ -39,6 +41,8 @@ Most of what's here falls into four buckets: **training and serving pipelines**,
 
 **[schemer](https://5x5x5x5.github.io/schemer/)** 🚧 — An in-browser CS tutor in the question-and-answer style of *The Little Schemer*.
 
+**[APL, out loud](https://5x5x5x5.github.io/apl/)** — A beginner APL tutorial with a live interpreter on the page: say the symbol names out loud and run them, up to Conway's Game of Life in one line.
+
 ## 🎲 Just for fun
 
 **[phantom-architecture](https://5x5x5x5.github.io/phantom-architecture/)** — Twenty-five architectural designs that never left the page, rendered as deterministic SVG blueprints. Vibe-coded by dictation.
@@ -48,6 +52,8 @@ Most of what's here falls into four buckets: **training and serving pipelines**,
 **[arcade](https://5x5x5x5.github.io/arcade/)** — Vibe-coded browser games, each a single static HTML file: a diner-themed match-3 and a 3D cat-chases-dogs romp.
 
 **[craps](https://5x5x5x5.github.io/craps/)** — A craps simulator with built-in tutorial, in plain JavaScript.
+
+**[ELIZA](https://5x5x5x5.github.io/eliza/)** — Weizenbaum's 1966 DOCTOR script, compiled to WebAssembly and printed on teletype paper.
 
 ## 🌐 Live sites
 
@@ -59,12 +65,15 @@ Everything with a working GitHub Pages deployment, in one place:
 - [ghidra-journey](https://5x5x5x5.github.io/ghidra-journey/) — reverse-engineering curriculum
 - [taihls](https://5x5x5x5.github.io/taihls/) — AI for health and life sciences textbook 🚧
 - [schemer](https://5x5x5x5.github.io/schemer/) — Little Schemer-style CS tutor 🚧
+- [APL, out loud](https://5x5x5x5.github.io/apl/) — APL tutorial you can speak to
+- [ai-vocabulary](https://5x5x5x5.github.io/ai-vocabulary/) — fourteen years of AI vocabulary
 - [gutenberg-typist](https://5x5x5x5.github.io/gutenberg-typist/) — typing-plugin site
 - [typist-guild](https://5x5x5x5.github.io/typist-guild/) — typing leaderboard
 - [phantom-architecture](https://5x5x5x5.github.io/phantom-architecture/) — unbuilt buildings as SVG blueprints
 - [deploy-pony](https://5x5x5x5.github.io/deploy-pony/) — Java deployment hell, two ways
 - [arcade](https://5x5x5x5.github.io/arcade/) — single-file browser games
 - [craps](https://5x5x5x5.github.io/craps/) — craps simulator and tutorial
+- [ELIZA](https://5x5x5x5.github.io/eliza/) — the 1966 chatbot in WebAssembly
 - [deeplearningrtp.github.io](https://deeplearningrtp.github.io/) — Deep Learning RTP, with ML demos running in your browser
 
 ## 🗺️ Elsewhere
