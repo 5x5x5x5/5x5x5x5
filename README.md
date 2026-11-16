@@ -25,7 +25,7 @@ I build ML systems, and I keep coming back to where they meet biology and drug m
 
 ## 🔧 Evals, training and generative pipelines
 
-**[dear-reader-bench](https://github.com/5x5x5x5/dear-reader-bench)** — An LLM benchmark for translating comedic narration (à la *Wizard People, Dear Reader*): does the humor, voice, and running gags survive the trip into another language?
+**[dear-reader-bench](https://github.com/5x5x5x5/dear-reader-bench)** — An LLM benchmark for translating comedic narration (à la *Wizard People, Dear Reader*): does the humor, voice, and running gags survive the trip into another language? [Site](https://dear-reader-bench.5x5x5x5.dev)
 
 **[grpo-countdown-modal](https://github.com/5x5x5x5/grpo-countdown-modal)** — GRPO fine-tuning on Modal GPUs: LoRA-tunes small Qwen models on Countdown arithmetic and MBPP code generation with verifiable, sandboxed rewards.
 
